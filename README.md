@@ -22,3 +22,6 @@ A README is often the first item a visitor will see when visiting your repositor
 - How users can get started with the project
 - Where users can get help with your project
 - Who maintains and contributes to the project
+
+Read more on making the md file more readable at
+https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md
